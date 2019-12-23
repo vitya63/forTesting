@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_DIA/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react_DIA/static/js/main.84970ccc.chunk.js",
+    "main.js.map": "/react_DIA/static/js/main.84970ccc.chunk.js.map",
+    "runtime-main.js": "/react_DIA/static/js/runtime-main.06681b9a.js",
+    "runtime-main.js.map": "/react_DIA/static/js/runtime-main.06681b9a.js.map",
+    "static/js/2.0381a3e2.chunk.js": "/react_DIA/static/js/2.0381a3e2.chunk.js",
+    "static/js/2.0381a3e2.chunk.js.map": "/react_DIA/static/js/2.0381a3e2.chunk.js.map",
+    "index.html": "/react_DIA/index.html",
+    "precache-manifest.ac95c95b04e6753fd9af34e9af5b6bf2.js": "/react_DIA/precache-manifest.ac95c95b04e6753fd9af34e9af5b6bf2.js",
+    "service-worker.js": "/react_DIA/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react_DIA/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0381a3e2.chunk.js.LICENSE": "/react_DIA/static/js/2.0381a3e2.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react_DIA/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06681b9a.js",
+    "static/js/2.0381a3e2.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.84970ccc.chunk.js"
+  ]
+}
